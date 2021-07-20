@@ -17,7 +17,7 @@
         "@aws-amplify/datastore": "^2.2.2",
         "@react-native-community/netinfo": "^5.9.2",
         "react": "16.11.0",
-        "react-native": "0.62.2",
+        "react-native": "0.62.3",
         "react-native-color-picker": "^0.5.2"
     },
     "devDependencies": {
